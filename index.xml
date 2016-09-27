@@ -6,8 +6,22 @@
     <description>Recent content on Changing Wealth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Sep 2016 01:35:18 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2016 21:02:12 -0600</lastBuildDate>
     <atom:link href="http://www.changingwealth.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Colophon</title>
+      <link>http://www.changingwealth.com/colophon/</link>
+      <pubDate>Mon, 26 Sep 2016 21:02:12 -0600</pubDate>
+      
+      <guid>http://www.changingwealth.com/colophon/</guid>
+      <description>&lt;p&gt;Changing Wealth is built with the fabulous &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site engine and hosted on &lt;a href=&#34;https://github.com/changingwealth/chw-hugo&#34;&gt;GitHub&lt;/a&gt;. Thanks to the wonderful community at &lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;discuss.gohugo.io&lt;/a&gt; for the clever implementation solutions.&lt;/p&gt;
+
+&lt;p&gt;The main typeface is &lt;a href=&#34;https://fonts.google.com/specimen/Lora&#34;&gt;Lora&lt;/a&gt;, while &lt;a href=&#34;https://fonts.google.com/specimen/PT+Sans&#34;&gt;PT Sans&lt;/a&gt; was used for the headings. Both are displayed using Google Fonts.&lt;/p&gt;
+
+&lt;p&gt;Finally, most of the CSS is handled with &lt;a href=&#34;http://getbootstrap.com&#34;&gt;Bootstrap 3&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
